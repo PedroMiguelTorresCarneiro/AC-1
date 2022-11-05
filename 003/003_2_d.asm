@@ -7,7 +7,7 @@
 # t1 = bit
 # t2 = i
 # t3 = rem
-# t4 = temp
+# t4 = FLAG
 
 	.data
 str1:	.asciiz "Introduza um numero: "
